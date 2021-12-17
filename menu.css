@@ -1,0 +1,21 @@
+# stile.css
+   body {
+       background-color: #fffaf0;
+       background-repeat: no-repeat;
+   }
+
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+nav {
+    border: 3px solid red;
+    display: flex;
+    -ms-flex-direction: row;
+
+}
+
+.titulo {
+     flex-grow: 2;
+     background-color: #;
+}
